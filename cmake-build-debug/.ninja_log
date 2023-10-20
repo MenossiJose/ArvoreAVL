@@ -1,0 +1,7 @@
+# ninja log v5
+7	131	7194737744293999	CMakeFiles/tarefaAVL.dir/main.c.obj	4ff543fdd3d63392
+1	158	7194737744564410	CMakeFiles/tarefaAVL.dir/bst.c.obj	f650a6b51bebb94
+158	292	7194737745876998	tarefaAVL.exe	5d09aa07f3e25a98
+10	98	7194750619539286	CMakeFiles/tarefaAVL.dir/main.c.obj	4ff543fdd3d63392
+2	131	7194750619876237	CMakeFiles/tarefaAVL.dir/bst.c.obj	f650a6b51bebb94
+132	228	7194750620804401	tarefaAVL.exe	5d09aa07f3e25a98
