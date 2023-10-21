@@ -3,13 +3,16 @@
 
 int main () {
   Tree t = createTree();
-  link x;
-  insert(t, 99);
-  imprime(t, "oi");
-  insert(t, 88);
-  imprime(t, "oi");
-  insert(t, 77);
-  imprime(t, "oi");
+
+    insert(t, 30);
+    insert(t, 28);
+    insert(t, 25);
+    insert(t, 22);
+    insert(t, 20);
+    insert(t, 18);
+    insert(t, 16);
+    insert(t, 13);
+    imprime(t, "AVL");
 
   return 0;
 }

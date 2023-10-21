@@ -1,10 +1,13 @@
-"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\jose_\CLionProjects\tarefaAVL -B C:\Users\jose_\CLionProjects\tarefaAVL\cmake-build-debug
--- The C compiler identification is GNU 13.1.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Configuring done (1.9s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/jose_/CLionProjects/tarefaAVL/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\jose_\CLionProjects\ArvoreAVL -B C:\Users\jose_\CLionProjects\ArvoreAVL\cmake-build-debug
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:8 (add_executable):
+  Cannot find source file:
+
+    Testes/avl-teste.c
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: tarefaAVL
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

@@ -8,4 +8,5 @@ include_directories(.)
 add_executable(tarefaAVL
         bst.c
         bst.h
-        main.c)
+        main.c
+)
