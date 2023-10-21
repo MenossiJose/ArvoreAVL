@@ -4,14 +4,12 @@
 int main () {
   Tree t = createTree();
 
-    insert(t, 30);
-    insert(t, 28);
-    insert(t, 25);
+    insert(t, 11);
     insert(t, 22);
-    insert(t, 20);
-    insert(t, 18);
-    insert(t, 16);
-    insert(t, 13);
+    insert(t, 33);
+    insert(t, 44);
+    insert(t, 55);
+    insert(t, 66);
     imprime(t, "AVL");
 
   return 0;
